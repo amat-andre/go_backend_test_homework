@@ -9,6 +9,6 @@ func Add(a, b int) int {
 }
 
 func main() {
-	fmt.Println("Я домашка")
+	fmt.Println("Я люблю домашку")
 }
 // Я в шаке от этих ваших программирований 

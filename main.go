@@ -11,8 +11,6 @@ func Add(a, b int) int {
 func main() {
 <<<<<<< HEAD
 	fmt.Println("Я люблю домашку. А это нужно reset'ить")
-=======
-	fmt.Println("Я люблю домашку")
->>>>>>> refs/remotes/origin/main
+	fmt.Println("Booom")
 }
 // Я в шаке от этих ваших программирований 

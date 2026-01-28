@@ -9,7 +9,6 @@ func Add(a, b int) int {
 }
 
 func main() {
-	fmt.Println("Я люблю домашку. А это нужно reset'ить")
 	fmt.Println("Booom")
 }
 // Я в шаке от этих ваших программирований 
